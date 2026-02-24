@@ -1,0 +1,9 @@
+1:"$Sreact.fragment"
+2:I[62572,["/Istanbul-villa-demo/_next/static/chunks/80b92b105ccea16c.js","/Istanbul-villa-demo/_next/static/chunks/e976b7b977921061.js"],"ClientPageRoot"]
+3:I[41775,["/Istanbul-villa-demo/_next/static/chunks/ed0593d1f5db213d.js","/Istanbul-villa-demo/_next/static/chunks/b43358482d6847cc.js"],"default"]
+6:I[33076,["/Istanbul-villa-demo/_next/static/chunks/80b92b105ccea16c.js","/Istanbul-villa-demo/_next/static/chunks/e976b7b977921061.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+0:{"buildId":"zISWEwH1EMApE5mLJODB5","rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/Istanbul-villa-demo/_next/static/chunks/b43358482d6847cc.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
+4:{}
+5:"$0:rsc:props:children:0:props:serverProvidedParams:params"
+8:null

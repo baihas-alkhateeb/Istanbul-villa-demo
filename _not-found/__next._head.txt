@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[33076,["/Istanbul-villa-demo/_next/static/chunks/80b92b105ccea16c.js","/Istanbul-villa-demo/_next/static/chunks/e976b7b977921061.js"],"ViewportBoundary"]
+3:I[33076,["/Istanbul-villa-demo/_next/static/chunks/80b92b105ccea16c.js","/Istanbul-villa-demo/_next/static/chunks/e976b7b977921061.js"],"MetadataBoundary"]
+4:"$Sreact.suspense"
+5:I[70114,["/Istanbul-villa-demo/_next/static/chunks/80b92b105ccea16c.js","/Istanbul-villa-demo/_next/static/chunks/e976b7b977921061.js"],"IconMark"]
+0:{"buildId":"zISWEwH1EMApE5mLJODB5","rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"مرحباً بكم في فيلا اسطنبول"}],["$","meta","1",{"name":"description","content":"فلل فاخرة للإيجار في صبنجة والمعشوقية"}],["$","link","2",{"rel":"icon","href":"/Istanbul-villa-demo/favicon.ico?favicon.0b3bf435.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L5","3",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
